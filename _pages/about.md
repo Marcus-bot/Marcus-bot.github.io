@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a third year undergraduate majoring in [Electronic Information Engineering](http://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China.
 
-My research interests are communication, LoT and etc.
+My research interests are Communication, LoT and etc.
 
 Educations
 ======
