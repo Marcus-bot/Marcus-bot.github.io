@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zehong Ma"
+title                    : "Jiazhen Lei"
 title_separator          : "-"
-name                     : &name "Zehong Ma"
+name                     : &name "Jiazhen Lei"
 description              : &description "Undergraduate at Northwestern Polytechnical University"
-url                      : https://zehong-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiazhen-lei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zehong-ma/zehong-ma.github.io"
+repository               : "jiazhen-lei/jiazhen-lei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "马泽红"
-  avatar           : "profile.jpg"
+  name             : "雷佳臻"
+  avatar           : "Jiazhen Lei.jpg"
   bio              : "Undergraduate at Northwestern Polytechnical University"
   location         : "Xi'an,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "npumzh@mail.nwpu.edu.cn"
+  email            : "leijiazhen@mail.nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zehong-Ma"
+  github           : "Jiazhen-Lei"
   google_plus      :
   keybase          :
   instagram        :
