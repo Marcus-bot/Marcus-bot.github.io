@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zehong Ma(马泽红)'s Homepage"
+title: "Jiazhen Lei(雷佳臻)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
