@@ -12,6 +12,8 @@ I am now a third year undergraduate majoring in [Electronic Information Engineer
 
 My research interests are Communication, LoT, Embedded Development and etc.
 
+I’m currently intern at [WNCLAB](http://www.wnclab.com/)
+
 Educations
 ======
 * Aug.2019-now . B.S. in School of Electronics And Information, Northwestern Polytechnical University
