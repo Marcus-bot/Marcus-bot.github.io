@@ -26,10 +26,11 @@ Honors and Awards
 * 2021\. Outstanding Student of Northwestern Polytechnical University
 * 2020\. Outstanding Student of Northwestern Polytechnical University
 * 2021\. National Champion of China Robotics Competition Dance Robot Project(Creativity&Performance) 
-* 2021\. National First Prize of Single Dacne in National Robot Championship
-* 2021\. National First Prize of Pet Robot in National Robot Championship
+* 2021\. National First Prize of Single Dacne Project in National Robot Championship
+* 2021\. National First Prize of Pet Robot Project in National Robot Championship
 
 Projects
 ======
+* Dance Robot
 * [2048_master](https://github.com/Jiazhen-Lei/2048_master)
 * [Three_Wheel_Car](https://github.com/Jiazhen-Lei/Three_Wheel_Car)
