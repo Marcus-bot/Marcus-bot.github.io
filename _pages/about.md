@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiazhen Lei(雷佳臻)'s Homepage"
+title: "王琪源的个人主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,31 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year undergraduate majoring in [Electronic Information Engineering](http://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China.
+我目前就读于 [西北工业大学](https://www.nwpu.edu.cn/)（985高校） [电子信息学院](http://dianzi.nwpu.edu.cn/) 电子信息工程专业，主修课程有信号与系统、数字信号处理、通信原理、随机信号分析、数电、模电等。
 
-My research interests are Communication, LoT, Embedded Development and etc.
+本科期间有嵌入式（软硬件）、机器人感知与控制、软件开发、深度学习等方面的竞赛或项目经验。
 
-I’m currently intern at [WNCLAB](http://www.wnclab.com/)
+我的研究兴趣有信息与信号处理、通信、机器人等。
 
-Educations
+前五学期学分积排名7/96，预计会获得推免名额。
+
+教育经历
 ======
-* Aug.2019-now . B.S. in School of Electronics And Information, Northwestern Polytechnical University
+* 2019年9月 至今 西北工业大学 电子信息学院 电子信息工程 
 
-Honors and Awards
+荣誉奖项
 ======
-* 2021\. China National Scholarship
-* 2020\. China National Scholarship
-* 2021\. Thanks to Chinese Modern Scientists Scholarship
-* 2021\. First-Class Scholarship of Northwestern Polytechnical University
-* 2020\. First-Class Scholarship of Northwestern Polytechnical University
-* 2021\. Outstanding Student of Northwestern Polytechnical University
-* 2020\. Outstanding Student of Northwestern Polytechnical University
-* 2021\. National Champion of China Robotics Competition Dance Robot Project(Creativity&Performance) 
-* 2021\. National First Prize of Single Dacne Project in National Robot Championship
-* 2021\. National First Prize of Pet Robot Project in National Robot Championship
+* 2020年 国际水中机器人大赛  国际一等奖、二等奖
+* 2021年 国家奖学金、西北工业大学校一等奖学金
+* 2020年 西北工业大学校一等奖学金、吴亚军三等奖学金
+* 2021年 国际水中机器人大赛  国际一等奖
+* 2020年 全国海洋航行器设计与制作大赛  国家一等奖
+* 2020年 全国机器人锦标赛  国家一等奖
+* 2021年 全国大学生工程训练综合能力竞赛陕西省赛  省级冠军  
+* 2021年 全国海洋航行器设计与制作大赛西北赛区  省二等奖、三等奖
+* 2021年 RoboMaster AI Challenge ICRA  Excellent Awards(国际级)
+* 省级大学生创新训练项目  优秀结题
 
-Projects
+项目经历
 ======
-* Dance Robot
-* [2048_master](https://github.com/Jiazhen-Lei/2048_master)
-* [Three_Wheel_Car](https://github.com/Jiazhen-Lei/Three_Wheel_Car)
+* 全自主水下管道巡检潜航器
+* 多节化可变形水下潜航器
+* 图像处理软件
+* 无人机目标识别追踪
+* 水下潜航器上位机控制平台
+* 基于Free RTOS的航行器下位机软件
+* 深度学习图片分类
+* ROS学习过程中的各种小实验
