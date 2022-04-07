@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "雷佳臻"
+  name             : "王琪源"
   avatar           : "picture.jpg"
   bio              : "Undergraduate at Northwestern Polytechnical University"
   location         : "Xi'an,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "leijiazhen@gmail.com"
+  email            : "mailbox_wqy@mail.nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jiazhen-Lei"
+  github           : "Marcus-bot"
   google_plus      :
   keybase          :
   instagram        :
