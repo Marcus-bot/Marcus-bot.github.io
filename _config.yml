@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "王琪源"
+title                    : "Qiyuan Wang"
 title_separator          : "-"
-name                     : &name "王琪源"
-description              : &description "西北工业大学 本科 三年级"
+name                     : &name "Qiyuan Wang"
+description              : &description "Undergraduate at Northwestern Polytechnical University"
 url                      : https://Marcus-bot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Marcus-bot/Marcus-bot.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "王琪源"
   avatar           : "picture.jpg"
-  bio              : "Undergraduate at Northwestern Polytechnical University"
-  location         : "Xi'an,China"
+  bio              : "西北工业大学 本科 大三"
+  location         : "陕西 西安"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
