@@ -21,3 +21,4 @@ author_profile: true
 - 在树莓派端通过检测图像中管道粗细，实现了视觉方式对管道定深的PID控制。
 
 <img src="../images/pic1.jpg" style="zoom:25%;" />
+
