@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-layout: Projects
-permalink: /Projects/
+collection: Projects
+permalink: /Projects/Projects
 ---
 
 A variety of common projects.
