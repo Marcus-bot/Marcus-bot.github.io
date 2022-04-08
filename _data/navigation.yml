@@ -3,6 +3,6 @@ main:
   - title: "首页"
     url: /#首页
     
-  - title: "Project"
+  - title: "Projects"
     url: /publications/
 
