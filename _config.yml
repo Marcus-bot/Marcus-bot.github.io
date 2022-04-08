@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "王琪源"
 description              : &description "西北工业大学 电子信息学院 电子信息工程 本科 大三"
 url                      : https://Marcus-bot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Marcus-bot/Marcus-bot.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
