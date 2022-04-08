@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-collection: Projects
-permalink: /Projects/Projects
+permalink: /Projects/
+author_profile: true
 ---
 
 A variety of common projects.
