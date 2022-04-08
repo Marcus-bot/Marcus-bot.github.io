@@ -15,15 +15,10 @@ author_profile: true
 以下项目中我的具体工作有：
 
 - 绘制两个PCB：信号板和供电板，焊接电路板，搭建控制体统与供电系统，组装整个机器人的硬件部分。
-
 - 下位机使用STM32F103ZET6编程控制螺旋桨电机，驱动传感器，控制灯光照明亮度，实现PID姿态控制与深度控制，定义串口通信协议。
-
 - 上位机使用Raspberrypi 4B（树莓派4B），使用Raspbian操作系统。我负责在树莓派上搭建两层通信接口：STM32与树莓派端、树莓派与PC端。
-
 - 在PC端驱动xbox游戏手柄，使用pygame获取手柄信息，定义手柄操作逻辑、按键映射。
-
 - 在树莓派端通过检测图像中管道粗细，实现了视觉方式对管道定深的PID控制。
 
-  
+![](https://github.com/Marcus-bot/Marcus-bot.github.io/blob/master/images/pic1.jpg)
 
-<img src="pic1.jpg" style="zoom: 25%;" />
