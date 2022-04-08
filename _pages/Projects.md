@@ -20,5 +20,4 @@ author_profile: true
 - 在PC端驱动xbox游戏手柄，使用pygame获取手柄信息，定义手柄操作逻辑、按键映射。
 - 在树莓派端通过检测图像中管道粗细，实现了视觉方式对管道定深的PID控制。
 
-![](https://github.com/Marcus-bot/Marcus-bot.github.io/blob/master/images/pic1.jpg)
-
+<img src="pic1.jpg" style="zoom:25%;" />
