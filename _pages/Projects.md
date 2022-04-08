@@ -1,10 +1,10 @@
 ---
-title: "Archive Layout with Content"
-layout: archive
-permalink: /archive-layout-with-content/
+title: "Projects"
+layout: Projects
+permalink: /Projects/
 ---
 
-A variety of common markup showing how the theme styles them.
+A variety of common projects.
 
 # Header one
 
