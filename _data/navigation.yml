@@ -1,11 +1,8 @@
 # main links links
 main:
-  - title: "教育经历"
-    url: /#教育经历
+  - title: "首页"
+    url: /#首页
     
-  - title: "荣誉奖项"
-    url: /#荣誉奖项
-
-  - title: "项目经历"
-    url: /#项目经历
+  - title: "Project"
+    url: /publications/
 
